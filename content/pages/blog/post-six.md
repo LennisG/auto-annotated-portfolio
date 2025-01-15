@@ -3,7 +3,6 @@ type: PostLayout
 title: MathegymCheat
 colors: colors-a
 date: '2025-12-01'
-author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
