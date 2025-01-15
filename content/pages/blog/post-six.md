@@ -2,7 +2,7 @@
 type: PostLayout
 title: MathegymCheat
 colors: colors-a
-date: '2024-12-01'
+date: '0002-12-01'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
